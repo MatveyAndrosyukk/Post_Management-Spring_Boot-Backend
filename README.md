@@ -6,7 +6,7 @@ Hello, this is my first project using React and my own backend on Java with fram
   2.Use command `npm start` to start working.\
   3.There are two SQL scripts in Post_Management-Spring_Boot-Backend, use them to create users, database, tables and insert values.\
   4.Get Post_Management-Spring_Boot-Backend from GITGUB in Intellij IDEA.\
-  5.Start the project.
+  5.Start the project.\
   6.Use http://localhost:3000/login to go to the website.\
 
 ## Stop
