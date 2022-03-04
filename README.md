@@ -10,5 +10,5 @@ Hello, this is my first project using React and my own backend on Java with fram
   6.Use http://localhost:3000/login to go to the website.
 
 ## Stop
-  1.Stop server in Intellij IDEA.
+  1.Stop server in Intellij IDEA.\
   2.Use **Ctrl + C** in WebStorm.
